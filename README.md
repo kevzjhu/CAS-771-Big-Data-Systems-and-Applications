@@ -1,4 +1,4 @@
-## Cross-Domain Model Fusion with mixture of Experts and Multi-Teacher Knowledge Distaillation
+## Cross-Domain Model Fusion with mixture of Experts and Multi-Teacher Knowledge Distillation
 
 In this term project, we explored how to combine multiple lightweight ResNet image classifiers into a single model that can handle a larger set of classes while staying within strict limits on our model size and depth (8M parameters, 10 layers). We focused on 2 cases  
 1. Task A: When the classifiers are trained on different classes
